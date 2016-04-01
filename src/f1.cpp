@@ -2,5 +2,5 @@
 
 int main() {
 	std::cout << "this is feature1" << std::endl;
-	return -1;
+	return 0;
 }
